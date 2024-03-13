@@ -24,5 +24,5 @@ let mut pixel_line:u32 = 1;
 }
 
 fn main() {
-    init("zulques.png");
+    init("photos./download.png");
 }
